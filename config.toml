@@ -1,4 +1,4 @@
-baseurl = "https://mydatavoyage.rbind.io/"
+baseurl = "mydatavoyage.rbind.io/"
 title = "Ghostwriter example"
 theme = "ghostwriter"
 languageCode = "en-us"
