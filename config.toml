@@ -1,4 +1,4 @@
-baseurl = "mydatavoyage.rbind.io/"
+baseurl = "https://pensive-mcnulty-2023ca.netlify.com/"
 title = "Ghostwriter example"
 theme = "ghostwriter"
 languageCode = "en-us"
