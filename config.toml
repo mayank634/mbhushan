@@ -1,13 +1,14 @@
 baseurl = "https://mydatavoyage.rbind.io/"
-title = "Ghostwriter example"
+title = "My Data Voyage"
 theme = "ghostwriter"
 languageCode = "en-us"
-copyright = "My Name"
+copyright = "&copy; 2017 Mayank Bhushan"
+enableEmoji = true
 disqusShortname = "XXX"
 googleAnalytics = "XXX"
 
 [Author]
-    name = "My Name"
+    name = "Mayank Bhushan"
     profile = "https://google.com/+XXX"
 
 [Taxonomies]
@@ -15,15 +16,12 @@ googleAnalytics = "XXX"
 
 [Params]
     intro = true
-    headline = "Ghostwriter example"
-    description = "Ghostwriter example description"
-    github = "https://github.com/XXX"
-    gitlab = "https://gitlab.com/XXX"
-    linkedin = "https://linkedin.com/in/XXX/"
-    gplus = "https://google.com/+XXX"
-    twitter = "https://twitter.com/XXX"
-    stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
-    email = "XXX@example.com"
+    headline = "My Data Voyage"
+    description = ""
+    github = "https://github.com/mayank634"
+    linkedin = "https://linkedin.com/in/mayank634/"
+    twitter = "https://twitter.com/mayank634"
+    email = "mayank634@gmail.com"
     opengraph = true
     shareTwitter = true
     shareFacebook = true
