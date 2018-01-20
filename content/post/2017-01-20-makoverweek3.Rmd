@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Makeover Monday
 
-Last week I published my first Tableau Public Viz. In the process of following the Tableau community on Twitter, I discovered an awesome community of Tableau experts and enthusiasts [Makeover Monday](http://www.makeovermonday.co.uk/). It's a weekly social data project where a dataset/viz is posted every Monday and the participants then rework the chart in their own way. Everyone has a different perspective on the data and the story it tells and this results in rich conversations around data. Also it's an excellent opportunity to work and hone your Tableau Skills
+Last week I published my first Tableau Public Viz. In the process of following the Tableau community on Twitter, I discovered an awesome community of Tableau experts and enthusiasts [Makeover Monday](http://www.makeovermonday.co.uk/). It's a weekly social data project where a dataset/viz is posted every Monday and the participants then rework the chart in their own way. Everyone has a different perspective on the data and the story it tells and this results in rich conversations around data. Also it's an excellent opportunity to work and hone your Tableau Skills.
 
 
 ## Data
