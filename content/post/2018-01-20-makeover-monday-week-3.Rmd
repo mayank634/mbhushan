@@ -1,7 +1,8 @@
 ---
-title: "Makeover Monday | Week 3"
-author: "Mayank Bhushan"
-date: 2018-01-20T21:13:14-05:00
+title: Makeover Monday | Week 3
+author: Mayank Bhushan
+date: '2018-01-20'
+slug: makeover-monday-week-3
 categories: ["Visualization"]
 tags: ["Tableau"]
 ---
@@ -35,8 +36,5 @@ Hex Maps are cool and I plan to make a hex map for India in the near future.
 For this Viz, I decided to color the states based on the dominant income level in that state and show the complete distribution across income levels in the tooltip. (Viz in Tooltip is da bomb!)
 
 <iframe align = "center" width = "800" height = "600" src="https://public.tableau.com/views/USHouseholdIncomeDistributionbyState/Dashboard1?:showVizHome=no&:embed=true"/>
-
-
-
 
 
