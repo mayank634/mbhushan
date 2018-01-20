@@ -1,0 +1,28 @@
+---
+title: "Makeover Monday | Week 3"
+author: "Mayank Bhushan"
+date: 2018-01-20T21:13:14-05:00
+categories: ["Visualization"]
+tags: ["Tableau"]
+---
+
+
+
+<div id="makeover-monday" class="section level2">
+<h2>Makeover Monday</h2>
+<p>Last week I published my first Tableau Public Viz. In the process of following the Tableau community on Twitter, I discovered an awesome community of Tableau experts and enthusiasts <a href="http://www.makeovermonday.co.uk/">Makeover Monday</a>. It’s a weekly social data project where a dataset/viz is posted every Monday and the participants then rework the chart in their own way. Everyone has a different perspective on the data and the story it tells and this results in rich conversations around data. Also it’s an excellent opportunity to work and hone your Tableau Skills</p>
+</div>
+<div id="data" class="section level2">
+<h2>Data</h2>
+<p>The data for this week was U.S. Household Income Distribution by State</p>
+<p><a href="https://data.world/makeovermonday/2018-w-3-u-s-household-income-distribution-by-state">Dataset</a> <a href="http://www.visualcapitalist.com/household-income-distribution-u-s-state/">Original Viz</a></p>
+</div>
+<div id="visualization" class="section level2">
+<h2>Visualization</h2>
+<p>Since this data was based on US states I decide to go with a map view. But the problem with a basic map viz is the “Alaska effect”. Alaska is a huge state and showing it in a basic map view distorts the entire viz and makes it hard for the reader/viewer to derive the right message. So get round this problem, I researched a bit and voila! Enter the hex map.</p>
+<p>Hex Map is a very elegant solution to eliminae the Alaska effect. In a hex map, all the states are represented as equally sized shape (inverted hexagon here) and shown on a map. The steps to create a hex map are very neatly outlined in the link below</p>
+<p><a href="https://www.tableau.com/about/blog/2017/1/viz-whiz-hex-tile-maps-64713">Hex Map Tutorial</a></p>
+<p>Hex Maps are cool and I plan to make a hex map for India in the near future.</p>
+<p>For this Viz, I decided to color the states based on the dominant income level in that state and show the complete distribution across income levels in the tooltip. (Viz in Tooltip is da bomb!)</p>
+<iframe align = "center" width = "800" height = "600" src="https://public.tableau.com/views/USHouseholdIncomeDistributionbyState/Dashboard1?:showVizHome=no&:embed=true"/>
+</div>

@@ -1,0 +1,30 @@
+---
+title: "First Tableau Public Viz"
+author: "Mayank Bhushan"
+date: 2018-01-14T21:13:14-05:00
+categories: ["Visualization"]
+tags: ["Tableau"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I have been working with Tableau for a while now and I have got to say it's a gem of a visualization tool. It's easy to use and doesn't have a steep learning curve. I got really hooked on it and started looking for inspiration. I have been following the Tableau Public community and got really inspired looking at all those beautiful visualizations on there. 
+
+# Data
+
+I decided to make a viz using a dataset I found on this amazing website [data.world](https://data.world)
+
+The dataset is about the retail price trends of key commodities of India
+
+[Dataset Page](https://data.world/rajanm/india-retail-prices-of-key-commodities-from-1997-to-2015)
+
+
+# Visualization
+
+For the visualization, I decided to go with a map view and leverage the brilliant Viz in  Tooltip feature in Tableau 10.5 to display the retail price trend over the years. The commodity can be selected from the dropdown on the right-hand side
+
+<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/views/IndiaKeyCommodities-RetailPriceTrend/Dashboard1?:showVizHome=no&:embed=true"/>
+
+
